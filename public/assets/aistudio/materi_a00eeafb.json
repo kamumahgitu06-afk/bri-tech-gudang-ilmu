@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Dasar Filesystem Termux",
+    "level": "Beginner",
+    "desc": "Pahami lokasi file dan cara navigasi di terminal.",
+    "tags": ["termux", "linux", "basics"],
+    "path": "pages/materi/termux/filesystem.html"
+  },
+  {
+    "title": "Nmap Reconnaissance",
+    "level": "Intermediate",
+    "desc": "Teknik pengintaian target menggunakan Nmap untuk mencari celah terbuka.",
+    "tags": ["nmap", "recon", "networking"],
+    "path": "pages/lab/termux-lab-01.html"
+  },
+  {
+    "title": "Automasi Bash Script",
+    "level": "Advanced",
+    "desc": "Cara membuat script otomatis untuk pekerjaan harian di Termux.",
+    "tags": ["bash", "automation", "pro"],
+    "path": "pages/materi/termux/automation.html"
+  },
+  {
+    "title": "Termux: Pengenalan Terminal Android",
+    "level": "Beginner",
+    "desc": "Termux: aplikasi terminal Android yang memungkinkan pentesting, automation, dan eksplorasi Linux secara portable.",
+    "tags": ["termux", "pentest", "security"],
+    "path": "pages/materi/termux/termux-pengenalan.html"
+  }
+]
+
